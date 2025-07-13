@@ -10,6 +10,11 @@ local zoneMap = {
     Metalworks = "Metalworks",
     PortBastok = "Port Bastok",
 
+    WindWalls  = "Windurst Walls",
+    PortWind   = "Port Windurst",
+    WindWoods  = "Windurst Woods",
+    WindWaters = "Windurst Waters",
+
     PortJeuno  = "PortJeuno",
     LowJeuno   = "Lower Jeuno",
     UpJeuno    = "Upper Jeuno",
